@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454112524139",
+    "project_id": "kopma-tels",
+    "storage_bucket": "kopma-tels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454112524139:android:e4ad4a60973b199c10fe2e",
+        "android_client_info": {
+          "package_name": "com.example.kopma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzc2p6A84HpMbgHmIfOKnmnt2_ovMpjgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
